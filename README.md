@@ -22,6 +22,6 @@ build:
 
 ## The Experiment
 
-Can 1 man really pull this off? Will this lead to [a new management style](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) for future generations, if so? 
+Can 1 man really pull this off? Will this lead to [a new management style](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) for future generations, if so? Writing technicals of each facet of the project will live in a blog on my site. To sort of back the understandings of these projects, to provide a concrete bridge between generation and understanding in a complex engineering world where everyone is trying to re-discover the value they bring to the table.
 
-A core unlimited energy source for me is the current state of Big-Tech in the Silicon Valley. The final vision that unifies all of my work will be unveiled in 2027.
+The final vision that unifies all of my work will be unveiled in 2027.
