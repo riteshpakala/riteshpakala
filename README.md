@@ -22,4 +22,6 @@ build:
 
 ## The Experiment
 
-Can 1 man really pull this off? Will this lead to [a new management style](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) for future generations, if so?
+Can 1 man really pull this off? Will this lead to [a new management style](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) for future generations, if so? 
+
+A core unlimited energy source for me is the current state of Big-Tech. There is joy to be found in consistent pushing of the wall.
