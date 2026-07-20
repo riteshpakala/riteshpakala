@@ -24,4 +24,4 @@ build:
 
 Can 1 man really pull this off? Will this lead to [a new management style](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) for future generations, if so? Writing technicals of each facet of the project will live in a blog on my site. To back the understandings of these projects, a concrete bridge between generation and understanding in a complex engineering world where everyone is trying to re-discover the value they bring to the table. 
 
-I do believe 2026 to be the year of the "strategic inflection point." The final vision that unifies all of my work will be unveiled in 2027.
+I do believe 2026 to be the year of the ***strategic inflection point.*** The final vision that unifies all of my work will be unveiled in 2027.
