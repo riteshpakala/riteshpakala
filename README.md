@@ -22,4 +22,4 @@ build:
 
 ## The Experiment
 
-I believe 2026 to be the year of the [***strategic inflection point.***](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/). Let's see what each giant of the Valley decides to do _NeXT_.
+I believe 2026 to be the year of the [***strategic inflection point.***](https://www.amazon.com/Only-Paranoid-Survive-Exploit-Challenge/dp/0385483821/) Let's see what each giant of the Valley decides to do _NeXT_.
