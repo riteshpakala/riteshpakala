@@ -23,7 +23,7 @@ build:
     - [ ] Frigate (Port OpenCV solutions required by VisionAX)
     - [ ] Fleet, on-demand LoRA training, schema for structured LoRAs used as state machines
     - [ ] Schema repos for Abilities and Skills, create discussions around them
-    - [ ] Update the site, https://maryos.ai
+    - [x] Update the site, https://maryos.ai
     - [ ] Update the reddit, https://reddit.com/r/maryos
     - [ ] Start discussions around how users may want to handle totem leasing
     - [ ] LLM CID at the watermarking level
