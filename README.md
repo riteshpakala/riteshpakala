@@ -18,6 +18,8 @@ build:
 
 ## What I'm building
 
+A thinking machine.
+
 - [ ] MaryOS 
     - [ ] Frigate (Update vendored MLX)
     - [ ] Frigate (Port OpenCV solutions required by VisionAX)
