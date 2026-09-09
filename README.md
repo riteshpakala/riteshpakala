@@ -31,3 +31,9 @@ A thinking machine.
     - [ ] LLM CID at the watermarking level
     - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
     - [ ] Obscur's updated deepfake detection technology built-in
+
+- [ ] MaryOS Liquid Platinum Distro
+    - [ ] MaryOS perfected on macOS
+    - [ ] MaryUI finalized
+    - [ ] MaryPi finalized
+    - [ ] RR-0 designed
