@@ -33,6 +33,7 @@ A thinking machine.
     - [ ] Obscur's updated deepfake detection technology built-in
 
 - [ ] MaryOS Liquid Platinum Distro
+    - [ ] MaryOS on macOS ported
     - [ ] MaryOS perfected on macOS
     - [ ] MaryUI finalized
     - [ ] MaryPi finalized
