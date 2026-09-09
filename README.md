@@ -21,7 +21,7 @@ build:
 A thinking machine.
 
 - [ ] MaryOS 
-    - [ ] Frigate (Update vendored MLX)
+    - [x] Frigate (Update vendored MLX)
     - [ ] Frigate (Port OpenCV solutions required by VisionAX)
     - [ ] Fleet, on-demand LoRA training, schema for structured LoRAs used as state machines
     - [ ] Schema repos for Abilities and Skills, create discussions around them
