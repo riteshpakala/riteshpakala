@@ -37,3 +37,5 @@ A thinking machine.
     - [ ] MaryUI finalized
     - [ ] MaryPi finalized
     - [ ] RR-0 designed
+
+Safety, security, and stability in 1 product.
