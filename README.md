@@ -22,7 +22,7 @@ A thinking machine.
 
 - [ ] MaryOS 
     - [x] Frigate (Update vendored MLX)
-    - [ ] Frigate (Port OpenCV solutions required by VisionAX)
+    - [x] Frigate (Port OpenCV solutions required by VisionAX)
     - [ ] Fleet, on-demand LoRA training, schema for structured LoRAs used as state machines
     - [ ] Schema repos for Abilities and Skills, create discussions around them
     - [x] Update the site, https://maryos.ai
