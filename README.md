@@ -18,7 +18,7 @@ build:
 
 ## What I'm building
 
-A thinking machine.
+A personal AI operating system.
 
 - [ ] MaryOS 
     - [x] Frigate (Update vendored MLX)
@@ -31,6 +31,7 @@ A thinking machine.
     - [ ] LLM CID at the watermarking level
     - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
     - [ ] Obscur's updated deepfake detection technology built-in
+    - [ ] Web based Ability Studio (https://rao-studios.github.com/MaryOS)
 
 - [ ] MaryOS Liquid Platinum Distro
     - [ ] MaryOS on macOS ported
