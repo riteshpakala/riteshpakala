@@ -31,7 +31,7 @@ A personal AI operating system.
     - [ ] LLM CID at the watermarking level
     - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
     - [ ] Obscur's updated deepfake detection technology built-in
-    - [ ] Web based Ability Studio (https://rao-studios.github.com/MaryOS)
+    - [ ] Web based [Ability Studio](https://rao-studios.github.io/MaryOS/)
 
 - [ ] MaryOS Liquid Platinum Distro
     - [ ] MaryOS on macOS ported
