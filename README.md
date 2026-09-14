@@ -20,22 +20,21 @@ build:
 
 A personal AI operating system.
 
-- [ ] MaryOS 
-    - [x] Frigate (Update vendored MLX)
-    - [x] Frigate (Port OpenCV solutions required by VisionAX)
-    - [ ] Fleet, on-demand LoRA training, schema for structured LoRAs used as state machines
-    - [ ] Schema repos for Abilities and Skills, create discussions around them
+- [ ] Mary
     - [x] Update the site, https://maryos.ai
     - [ ] Update the reddit, https://reddit.com/r/maryos
     - [ ] Start discussions around how users may want to handle totem leasing
     - [ ] LLM CID at the watermarking level
     - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
     - [ ] Obscur's updated deepfake detection technology built-in
-    - [ ] Web based [Ability Studio](https://rao-studios.github.io/MaryOS/)
+    - [ ] Perfect indexing operations on macOS
+    - [ ] Setup macOS release, macOS is the release
+    - [ ] Setup iOS sister app, initially seen Winter 2025/Spring 2026. A chat-bot with royalties.
 
 - [ ] MaryOS Liquid Platinum Distro
-    - [ ] MaryOS on macOS ported
-    - [ ] MaryOS perfected on macOS
+    - [x] MaryOS on macOS ported
+    - [~] MaryOS perfected on macOS
+        - [ ] Only MaryOS Linux has computer-use functionality
     - [ ] MaryUI finalized
     - [ ] MaryPi finalized
     - [ ] RR-0 designed
