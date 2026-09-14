@@ -33,7 +33,7 @@ A personal AI operating system.
 
 - [ ] MaryOS Liquid Platinum Distro
     - [x] MaryOS on macOS ported
-    - [~] MaryOS perfected on macOS
+    ~~- [ ] MaryOS perfected on macOS~~
         - [ ] Only MaryOS Linux has computer-use functionality
     - [ ] MaryUI finalized
     - [ ] MaryPi finalized
