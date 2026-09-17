@@ -22,7 +22,7 @@ A personal AI operating system.
 
 - [ ] Mary
     - [x] Update the site, https://maryos.ai
-    - [ ] Update the reddit, https://reddit.com/r/maryos
+    - [ ] Plan as OS alternative to Muse Agent, until MaryOS
     - [ ] Start discussions around how users may want to handle totem leasing
     - [ ] LLM CID at the watermarking level
     - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
@@ -33,8 +33,8 @@ A personal AI operating system.
 
 - [ ] MaryOS Liquid Platinum Distro
     - [x] MaryOS on macOS ported
-    - ~~[ ] MaryOS perfected on macOS~~
-        - [ ] Only MaryOS Linux has computer-use functionality
+    - [ ] MaryOS Swift Fork
+    - [ ] MaryOS Application Design is integrated with Granite patterns
     - [ ] MaryUI finalized
     - [ ] MaryPi finalized
     - [ ] RR-0 designed
