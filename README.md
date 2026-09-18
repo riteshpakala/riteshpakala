@@ -20,8 +20,8 @@ build:
 
 A personal AI operating system.
 
-- [ ] Ambient
-    - [x] Update the site, https://ambient.rao.nyc
+- [ ] Ambient (https://ambient.rao.nyc)
+    - [x] Update the site 
     - [ ] A mini version of MaryOS for macOS, a reading comprehension tool.
     - [ ] Start discussions around how users may want to handle thread leasing
     - [ ] LLM CID at the watermarking level
@@ -31,7 +31,7 @@ A personal AI operating system.
     - [ ] Setup macOS release, macOS is the release
     - [ ] Setup iOS sister app, initially seen Winter 2025/Spring 2026. A chat-bot with royalties.
 
-- [ ] MaryOS
+- [ ] MaryOS (https://maryos.ai)
     - [x] MaryOS on macOS ported
     - [ ] MaryOS Swift Fork
     - [ ] MaryOS Application Design is integrated with Granite patterns
