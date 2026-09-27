@@ -22,13 +22,13 @@ A personal AI operating system.
 
 - [ ] Ambient (https://ambient.rao.nyc)
     - [x] Update the site 
-    - [ ] A mini version of MaryOS for macOS, a reading comprehension tool.
+    - [x] A mini version of MaryOS for macOS, a reading comprehension tool.
     - [ ] Start discussions around how users may want to handle thread leasing
     - [ ] LLM CID at the watermarking level
-    - [ ] LLM text provenance at the token prediction level (Frigate Obscur work can help)
+    - [x] LLM text provenance at the token prediction level (https://github.com/rao-studios/raolm)
     - [ ] Obscur's updated deepfake detection technology built-in
     - [ ] Perfect indexing operations on macOS
-    - [ ] Setup macOS release, macOS is the release
+    - [x] Setup macOS release, macOS is the release
     - [ ] Setup iOS sister app, initially seen Winter 2025/Spring 2026. A chat-bot with royalties.
 
 - [ ] MaryOS (https://maryos.ai)
