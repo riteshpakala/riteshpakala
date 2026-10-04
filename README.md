@@ -45,6 +45,13 @@ A personal AI operating system. Doing quite a bit at once, this doesn't include 
     - [ ] Agent harness perfection
     - [x] Setup macOS release, macOS is the release
 
+- [ ] RaoLM (https://lm.rao.nyc)
+    - [ ] A distributed transformer
+    - [ ] Works with the existing systems above ([Thread](https://github.com/riteshpakala/thread) specifically)
+    - [ ] A language model with citations baked in
+    - [ ] Incorporates P2P principles, IPFS principles, Blockchain principles
+    - [ ] This is a long-term project that requires many contributors, OSS community structure preparation.
+
 - [ ] MaryOS
     - All of the above combined into a OS solution.
 
