@@ -49,3 +49,10 @@ A personal AI operating system. Doing quite a bit at once, this doesn't include 
     - All of the above combined into a OS solution.
 
 Safety, security, and stability in 1 product.
+
+# Open to work & consultancy!
+
+Personal site: https://paka.la
+Quick share: https://paka.la/share
+
+Email: rpakala@me.com
