@@ -26,17 +26,26 @@ A personal AI operating system.
     - [ ] Start discussions around how users may want to handle thread leasing
     - [ ] LLM CID at the watermarking level
     - [x] LLM text provenance at the token prediction level (https://github.com/rao-studios/raolm)
-    - [ ] Obscur's updated deepfake detection technology built-in
     - [ ] Perfect indexing operations on macOS
     - [x] Setup macOS release, macOS is the release
-    - [ ] Setup iOS sister app, initially seen Winter 2025/Spring 2026. A chat-bot with royalties.
+    - [x] Setup iOS sister app, initially seen Winter 2025/Spring 2026. A chat-bot with royalties.
 
-- [ ] MaryOS (https://maryos.ai)
-    - [x] MaryOS on macOS ported
-    - [ ] MaryOS Swift Fork
-    - [ ] MaryOS Application Design is integrated with Granite patterns
-    - [ ] MaryUI finalized
-    - [ ] MaryPi finalized
-    - [ ] RR-0 designed
+- [ ] Veil (https://veil.rao.nyc)
+    - [x] Update the site 
+    - [x] Image generation safe guard
+    - [ ] Image watermarking
+    - [ ] Image provenance, shared thread into Ambient
+    - [ ] Custom privacy preserving storage, that cannot reproduce provided user visuals, when stored, to protect their visual identity even from Rao.
+    - [x] Setup macOS release, macOS is the release
+     
+- [ ] Craft (https://craft.rao.nyc)
+    - [x] Update the site 
+    - [x] Code generation provenance
+    - [ ] Coding provenance, shared thread into Ambient/Veil
+    - [ ] Agent harness perfection
+    - [x] Setup macOS release, macOS is the release
+
+- [ ] MaryOS
+    - All of the above combined into a OS solution.
 
 Safety, security, and stability in 1 product.
