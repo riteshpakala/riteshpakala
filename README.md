@@ -18,7 +18,7 @@ build:
 
 ## What I'm building
 
-A personal AI operating system.
+A personal AI operating system. Doing quite a bit at once, this doesn't include the payment channels, strategies, backend, marketing and web services required to share this work with the world. So... mistakes will definitely be made until the team grows!
 
 - [ ] Ambient (https://ambient.rao.nyc)
     - [x] Update the site 
@@ -36,7 +36,7 @@ A personal AI operating system.
     - [ ] Image watermarking
     - [ ] Image provenance, shared thread into Ambient
     - [ ] Custom privacy preserving storage, that cannot reproduce provided user visuals, when stored, to protect their visual identity even from Rao.
-    - [x] Setup macOS release, macOS is the release
+    - [ ] Setup macOS release, macOS is the release
      
 - [ ] Craft (https://craft.rao.nyc)
     - [x] Update the site 
