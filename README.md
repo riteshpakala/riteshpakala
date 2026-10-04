@@ -43,7 +43,9 @@ A personal AI operating system. Doing quite a bit at once, this doesn't include 
     - [x] Code generation provenance
     - [ ] Coding provenance, shared thread into Ambient/Veil
     - [ ] Agent harness perfection
-    - [x] Setup macOS release, macOS is the release
+    - [ ] Setup macOS release, macOS is the release
+
+> The Path leads here. A new *equatable* frontier.
 
 - [ ] RaoLM (https://lm.rao.nyc)
     - [ ] A distributed transformer
