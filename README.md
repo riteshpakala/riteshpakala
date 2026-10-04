@@ -54,12 +54,14 @@ A personal AI operating system. Doing quite a bit at once, this doesn't include 
     - [ ] Incorporates P2P principles, IPFS principles, Blockchain principles
     - [ ] This is a long-term project that requires many contributors, OSS community structure preparation.
 
+> RaoLM work is done in parallel as findings from Ambient, Veil, and Craft converge over time.
+
 - [ ] MaryOS
     - All of the above combined into a OS solution.
 
 Safety, security, and stability in 1 product.
 
-# Open to work & consultancy!
+# Let's chat!
 
 Personal site: https://paka.la
 
