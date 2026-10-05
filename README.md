@@ -52,6 +52,9 @@ A personal AI operating system. Doing quite a bit at once, this doesn't include 
 
 - [ ] MaryOS
     - All of the above combined into a OS solution.
+    - Linux design research (https://github.com/rao-studios/MaryUI).
+    - Device distribution research (https://github.com/rao-studios/MaryUI).
+    - The actual MaryOS repo will be available in the future, hosting all of the C ports that make A/V/C possible.
 
 Safety, security, and stability in 1 product.
 
