@@ -1,6 +1,6 @@
 # Hi, I'm Ritesh 👋
 
-**Adversarial ML researcher with a Computer Vision focus.** I treat Swift — on
+**ML, Art, and Architecture** I treat Swift — on
 the device and on the server — as the medium for machine learning and creative
 solutions.
 
@@ -9,10 +9,6 @@ researchers: porting their models efficiently onto edge devices and shaping the
 inputs and outputs they trained against to hit competitive benchmarks. On paper
 my career has been iOS / iPadOS / macOS engineering — in practice my work has
 always lived where creative engineering meets ML systems.
-
-I'm now turning that toolkit toward Adversarial ML research, still in Swift,
-still close to the edge — with one question running underneath most of what I
-build:
 
 ## What I'm building
 
