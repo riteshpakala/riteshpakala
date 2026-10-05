@@ -14,8 +14,6 @@ I'm now turning that toolkit toward Adversarial ML research, still in Swift,
 still close to the edge — with one question running underneath most of what I
 build:
 
-> *"When does generative AI qualify for fair use?"*
-
 ## What I'm building
 
 A personal AI operating system. Doing quite a bit at once, this doesn't include the payment channels, strategies, backend, marketing and web services required to share this work with the world. So... mistakes will definitely be made until the team grows!
