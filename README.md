@@ -12,7 +12,7 @@ always lived where creative engineering meets ML systems.
 
 ## What I'm building
 
-> RaoLM work is done in parallel as findings from Ambient, Veil, and Craft converge over time.
+> RaoLM/Braid work is done in parallel as findings from Ambient, Veil, and Craft converge over time.
 
 - [ ] MaryOS
     - Linux design research (https://github.com/rao-studios/MaryUI)
@@ -20,6 +20,8 @@ always lived where creative engineering meets ML systems.
     - The actual MaryOS repo will be available in the future, hosting all of the C ports that make A/V/C possible
 
 Safety, security, and stability in 1 product.
+
+Licenses for most projects will relax from GPL 3.0 over time.
 
 # Let's chat!
 
