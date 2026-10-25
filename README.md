@@ -23,6 +23,8 @@ Safety, security, and stability in 1 product.
 
 Licenses for most projects will relax from GPL 3.0 over time.
 
+Provisional patents for GPL projects are only for domestic U.S. filings. EU... take what you need my friends.
+
 # Let's chat!
 
 Personal site: https://paka.la
