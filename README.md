@@ -1,4 +1,4 @@
-# Hi, I'm Ritesh 👋
+# Hi, I'm Ritesh
 
 **ML, Art, and Architecture** I treat Swift — on
 the device and on the server — as the medium for machine learning and creative
@@ -27,7 +27,7 @@ Provisional patents for GPL projects are only for domestic U.S. filings. EU... t
 
 # Let's chat!
 
-Personal site: https://paka.la
+Blog: https://paka.la/blog
 
 Quick share: https://paka.la/share
 
